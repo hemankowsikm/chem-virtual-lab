@@ -1,0 +1,8 @@
+streamlit>=1.50
+pandas
+numpy
+matplotlib
+py3Dmol
+rdkit
+reportlab
+Pillow
